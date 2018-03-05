@@ -14,6 +14,6 @@ Laravel é um framework PHP que ajuda facilita e muito a vida do programador:
 Neste projeto com laravel, fiz um CRUD para poder fazer uso de vários dos recursos citados a cima
 
 
-![projeto CRUD](projeto.jpg)
+![projeto CRUD](https://lh3.googleusercontent.com/fs3t_dSL2fiqIh2NubjFXYiUagHhA43nzfNsTlMUVykE4CnHiXZa3xVDbR6REWXTeb37KRXwUD58JdncLbAWA2D57Z-wgMo7tH0QKoq64pv1gZ-Kwv7EuhLNhjwQnXqCwjw1oKXbWA=w659-h404-no)
 
 
