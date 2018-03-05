@@ -1,6 +1,6 @@
 **PROJETO PHP USANDO LARAVEL MVC**
 
-Laravel é um framework PHP que ajuda facilita e muito a vida do programador:
+Laravel é um framework PHP que facilita e muito a vida do programador:
 
 
 
