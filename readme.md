@@ -14,6 +14,25 @@ Laravel é um framework PHP que facilita e muito a vida do programador:
 Neste projeto com laravel, fiz um CRUD para poder fazer uso de vários dos recursos citados a cima
 
 
+Criei um alias no meu servidor apache(uso o xampp):
+
+    Alias /laravelCRUD "C:/xampp/htdocs/laravelCRUD/CRUD/public/"
+    <Directory "C:/xampp/htdocs/laravelCRUD/CRUD/public">
+	    Options Indexes FollowSymLinks Includes ExecCGI
+	    AllowOverride All
+	    Require all granted
+    </Directory>
+    
+Coloquei a linha RewriteBase no .htacces do laravel (localizado na pasta public):
+
+    RewriteBase /laravelCRUD
+
+Rota de inicio do projeto no meu computador ficou assim:
+
+    'http://localhost/laravelCRUD/contas' vai para o app
+    e 'http://localhost/laravelCRUD/' vai para welcome do laravel
+
+
 ![projeto CRUD](https://lh3.googleusercontent.com/fs3t_dSL2fiqIh2NubjFXYiUagHhA43nzfNsTlMUVykE4CnHiXZa3xVDbR6REWXTeb37KRXwUD58JdncLbAWA2D57Z-wgMo7tH0QKoq64pv1gZ-Kwv7EuhLNhjwQnXqCwjw1oKXbWA=w659-h404-no)
 
 
