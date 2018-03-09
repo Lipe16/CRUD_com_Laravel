@@ -33,6 +33,6 @@ Rota de inicio do projeto no meu computador ficou assim:
     e 'http://localhost/laravelCRUD/' vai para welcome do laravel
 
 
-![projeto CRUD](https://lh3.googleusercontent.com/fs3t_dSL2fiqIh2NubjFXYiUagHhA43nzfNsTlMUVykE4CnHiXZa3xVDbR6REWXTeb37KRXwUD58JdncLbAWA2D57Z-wgMo7tH0QKoq64pv1gZ-Kwv7EuhLNhjwQnXqCwjw1oKXbWA=w659-h404-no)
+![projeto CRUD](https://image.ibb.co/gP33Nn/contas01.png)
 
 
